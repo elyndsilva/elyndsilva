@@ -16,5 +16,5 @@ Programação Web
 Design de Interface
 Segurança da Informação
 
-[![Elind Santos](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)](https://github.com/elyndsilva)
+[![Elind Santos](https://github-readme-stats.vercel.app/api?username=elyndsilva&show_icons=true&theme=radical)](https://github.com/elyndsilva)
 
