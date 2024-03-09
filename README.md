@@ -16,4 +16,4 @@ Programação Web
 Design de Interface
 Segurança da Informação
 
-[![elyndsilva](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)](https://github.com/seuusername)
+[!elyndsilva(https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)](https://github.com/seuusername)
