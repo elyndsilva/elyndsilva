@@ -22,7 +22,3 @@ Segurança da Informação
 
 
 
-
-
-<!-- Adicione a Cobrinha Comedora ao seu README.md -->
-![Snake animation](https://github.com/elyndsilva/elyndsilva/blob/output/github-contribution-grid-snake.svg)
