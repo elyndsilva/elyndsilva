@@ -1,16 +1,17 @@
-### Hi there 👋
+👋 Olá, eu sou Elind Santos, um entusiasta de tecnologia dando os primeiros passos na carreira de desenvolvimento. Tenho 22 anos e atualmente estou cursando Análise e Desenvolvimento de Sistemas, com foco em Cybersecurity e UX Design.
 
-<!--
-**elyndsilva/elyndsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Minhas Habilidades:
 
-Here are some ideas to get you started:
+HTML
+CSS
+JavaScript
+Meus Cursos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Análise e Desenvolvimento de Sistemas
+Cybersecurity
+UX Design
+Atualmente Explorando:
+
+Programação Web
+Design de Interface
+Segurança da Informação
