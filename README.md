@@ -18,7 +18,9 @@ Segurança da Informação
 
 [![Elind Santos](https://github-readme-stats.vercel.app/api?username=elyndsilva&show_icons=true&theme=radical)](https://github.com/elyndsilva)
 
-)
+[![Elynd](https://github-readme-stats.vercel.app/api?username=elyndsilva&show_icons=true&theme=radical)](https://github.com/elyndsilva)
+[![Elynd](https://github.com/elyndsilva/seuusername/blob/output/github-contribution-grid-snake.svg)](https://github.com/elyndsilva)
+
 
 
 
